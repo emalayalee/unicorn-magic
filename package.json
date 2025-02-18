@@ -7,12 +7,12 @@
 	"funding": "https://github.com/sponsors/sindresorhus",
 	"author": {
 		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
+		"email": "sindresorhus@Gmail.com",
 		"url": "https://sindresorhus.com"
 	},
 	"type": "module",
 	"exports": {
-		".": "./index.js", // Added missing export
+		".": "./index.js",
 		"node": {
 			"types": "./node.d.ts",
 			"import": "./node.js"
